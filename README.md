@@ -1,2 +1,3 @@
 # MyFirst_repo
-This is my first git repository
+This is my firstv Git Repository
+Author - Ashutosh Sharma
